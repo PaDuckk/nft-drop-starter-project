@@ -1,0 +1,28 @@
+{
+  "program": {
+    "uuid": "FWRsKR",
+    "candyMachine": "FWRsKR6kvGAVomMnvtwEUt3RB16x88bcMY5fkLYAkD5H"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/bXbBvexDcvHPozd0MomOFMg_gwH-zsyaWy2GJZhtYFI",
+      "name": "NAME_OF_NFT",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/Dfeu22Dz7YAOSVpdqf_JAjvfqI_Wt7v0rAVm_SkPdDg",
+      "name": "NAME_OF_NFT",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/cgX2L006Wa-pUuBObfy7rX8GGsagh60ilgxRtWIz1ok",
+      "name": "NAME_OF_NFT",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}
